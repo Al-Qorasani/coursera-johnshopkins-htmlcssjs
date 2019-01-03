@@ -1,4 +1,4 @@
-# This is my site
+# Welcome to my page
 
 ## Welcome to GitHub Pages
 
